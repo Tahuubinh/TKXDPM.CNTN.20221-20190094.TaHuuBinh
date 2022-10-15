@@ -1,8 +1,9 @@
 # TKXDPM.CNTN.20221-20190094.TaHuuBinh
 
-This is my repo, repo Test2
+## Introduction
+This repo contains my homework in *SOFTWARE DESIGN AND CONSTRUCTION* subject at Hanoi University of Science and Technology 
 
+## List of labs:
 
-This is the second commit local change.
-This is the a + b = c
++ Lab 00: [Software	Requirement	Specification] (https://github.com/Tahuubinh/TKXDPM.CNTN.20221-20190094.TaHuuBinh/tree/main/Requirement%20Analysis)
 
