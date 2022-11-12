@@ -55,12 +55,7 @@
       </TextField>
       <TextArea layoutX="390.0" layoutY="330.0" prefHeight="100.0" prefWidth="900.0" />
       <TextArea layoutX="390.0" layoutY="460.0" prefHeight="150.0" prefWidth="900.0" />
-      <Button layoutX="831.0" layoutY="640.0" mnemonicParsing="false" style="-fx-background-color: #ff0000;" text="Confirm delivery" textFill="WHITE">
-         <font>
-            <Font name="Segoe UI Bold" size="36.0" />
-         </font>
-      </Button>
-      <Button layoutX="200.0" layoutY="640.0" mnemonicParsing="false" style="-fx-background-color: #7E57C0;" text="Place rush order" textFill="WHITE">
+      <Button layoutX="526.0" layoutY="646.0" mnemonicParsing="false" style="-fx-background-color: #ff0000;" text="Confirm delivery" textFill="WHITE">
          <font>
             <Font name="Segoe UI Bold" size="36.0" />
          </font>
