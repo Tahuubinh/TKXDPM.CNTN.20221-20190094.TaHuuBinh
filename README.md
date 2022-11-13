@@ -5,7 +5,7 @@ This repo contains my homework in *SOFTWARE DESIGN AND CONSTRUCTION* subject at 
 
 ## List of labs:
 
-+ Lab 00: <a href="https://github.com/Tahuubinh/TKXDPM.CNTN.20221-20190094.TaHuuBinh/tree/main/Requirement%20Analysis" target="_blank">Software	Requirement	Specification</a>
++ Lab 00: <a href="https://github.com/Tahuubinh/TKXDPM.CNTN.20221-20190094.TaHuuBinh/tree/release/lab04/Requirement%20Analysis" target="_blank">Software	Requirement	Specification</a>
 
 + Lab 03: <a href="https://github.com/Tahuubinh/TKXDPM.CNTN.20221-20190094.TaHuuBinh/tree/release/lab04/Architectural%20Design" target="_blank">Architectural Design</a>
 
