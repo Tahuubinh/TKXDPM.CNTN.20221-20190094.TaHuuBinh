@@ -12,6 +12,6 @@ This repo contains my homework in *SOFTWARE DESIGN AND CONSTRUCTION* subject at 
 + Lab 04: <a href="https://github.com/Tahuubinh/TKXDPM.CNTN.20221-20190094.TaHuuBinh/tree/release/lab04/Interface%20Design" target="_blank">Interface Design</a>  
 
 
-+ Lab 04: <a href="https://github.com/Tahuubinh/TKXDPM.CNTN.20221-20190094.TaHuuBinh/tree/release/lab05/Class%20Design%20and%20Data%20Modeling/Class%20Design" target="_blank">Class Design and Data Modeling</a>  
++ Lab 05: <a href="https://github.com/Tahuubinh/TKXDPM.CNTN.20221-20190094.TaHuuBinh/tree/release/lab05/Class%20Design%20and%20Data%20Modeling/Class%20Design" target="_blank">Class Design and Data Modeling</a>  
 
 
