@@ -1,4 +1,7 @@
-package controller;
+import static org.junit.jupiter.api.Assertions.fail;
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
 
 //import controller.PlaceOrderController;
 import org.junit.jupiter.api.BeforeEach;
@@ -11,7 +14,7 @@ public class ValidateName {
     private PlaceOrderController placeOrderController;
 
     @BeforeEach
-    void setUp() {
+    void setUp() throws Exception {
         placeOrderController = new PlaceOrderController();
     }
 
