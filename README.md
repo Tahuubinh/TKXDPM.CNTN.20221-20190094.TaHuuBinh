@@ -5,7 +5,7 @@ This repo contains my homework in *SOFTWARE DESIGN AND CONSTRUCTION* subject at 
 
 ## List of labs:
 
-+ Lab 00: <a href="./Requirement	Specification" target="_blank">Software	Requirement	Specification</a>
++ Lab 00: <a href="./Requirement Analysis" target="_blank">Requirement Analysis</a>
 
 + Lab 03: <a href="./Architectural Design" target="_blank">Architectural Design</a>
 
