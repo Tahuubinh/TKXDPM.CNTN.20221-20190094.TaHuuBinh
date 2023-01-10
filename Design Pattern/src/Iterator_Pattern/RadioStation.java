@@ -12,7 +12,7 @@ public class RadioStation {
 		
 		// madMike.showTheSongs();
 		
-		madMike.showTheSongs2();
+		madMike.showTheSongs();
 		
 	}
 	
